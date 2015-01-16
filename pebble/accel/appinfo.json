@@ -1,0 +1,17 @@
+{
+  "uuid": "c741dc39-4082-4a43-9cad-2b775c1ec521",
+  "shortName": "accel",
+  "longName": "accel",
+  "companyName": "MakeAwesomeHappen",
+  "versionCode": 1,
+  "versionLabel": "1.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
